@@ -1,0 +1,11 @@
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\obj\Debug\Komodo_Console.csprojAssemblyReference.cache
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\obj\Debug\Komodo_Console.csproj.CoreCompileInputs.cache
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\bin\Debug\Komodo_Console.exe.config
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\bin\Debug\Komodo_Console.exe
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\bin\Debug\Komodo_Console.pdb
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\bin\Debug\Gold_Badge.dll
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\bin\Debug\Gold_Badge.pdb
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\bin\Debug\Gold_Badge.dll.config
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\obj\Debug\Komodo_Console.csproj.CopyComplete
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\obj\Debug\Komodo_Console.exe
+C:\Users\X\source\repos\Gold_Badge\Komodo_Console\obj\Debug\Komodo_Console.pdb

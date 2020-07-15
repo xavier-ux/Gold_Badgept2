@@ -1,0 +1,2 @@
+C:\Users\X\source\repos\Gold_Badge\UnitTestProject1\obj\Debug\Menurepotest.csprojAssemblyReference.cache
+C:\Users\X\source\repos\Gold_Badge\UnitTestProject1\obj\Debug\Menurepotest.csproj.CoreCompileInputs.cache
