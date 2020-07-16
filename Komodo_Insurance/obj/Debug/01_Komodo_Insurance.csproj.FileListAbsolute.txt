@@ -1,0 +1,7 @@
+C:\Users\X\source\repos\Gold_Badge\Komodo_Insurance\obj\Debug\01_Komodo_Insurance.csprojAssemblyReference.cache
+C:\Users\X\source\repos\Gold_Badge\Komodo_Insurance\obj\Debug\01_Komodo_Insurance.csproj.CoreCompileInputs.cache
+C:\Users\X\source\repos\Gold_Badge\Komodo_Insurance\bin\Debug\Komodo_Insurance.dll.config
+C:\Users\X\source\repos\Gold_Badge\Komodo_Insurance\bin\Debug\Komodo_Insurance.dll
+C:\Users\X\source\repos\Gold_Badge\Komodo_Insurance\bin\Debug\Komodo_Insurance.pdb
+C:\Users\X\source\repos\Gold_Badge\Komodo_Insurance\obj\Debug\Komodo_Insurance.dll
+C:\Users\X\source\repos\Gold_Badge\Komodo_Insurance\obj\Debug\Komodo_Insurance.pdb

@@ -1,0 +1,11 @@
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\obj\Debug\01_Insurance_Console.csproj.CoreCompileInputs.cache
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\bin\Debug\01_Insurance_Console.exe.config
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\bin\Debug\01_Insurance_Console.exe
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\bin\Debug\01_Insurance_Console.pdb
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\bin\Debug\Komodo_Insurance.dll
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\bin\Debug\Komodo_Insurance.pdb
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\bin\Debug\Komodo_Insurance.dll.config
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\obj\Debug\01_Insurance_Console.csprojAssemblyReference.cache
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\obj\Debug\01_Insurance_Console.csproj.CopyComplete
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\obj\Debug\01_Insurance_Console.exe
+C:\Users\X\source\repos\Gold_Badge\01_Insurance_Console\obj\Debug\01_Insurance_Console.pdb
